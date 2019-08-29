@@ -1,0 +1,11 @@
+{
+  "name": "@tervis/tervisadobeindesignserverjs",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "TervisAdobeInDesignServerJS.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tervis-Tumbler/TervisAdobeInDesignServerJS"
+  },
+  "license": "MIT"
+}
