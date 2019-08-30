@@ -1,6 +1,8 @@
+import got from 'got'
+
 import {
     New_NumberRange
-} from '../TervisUtilityJS/TervisUtilityJS.js'
+} from '@tervis/tervisutilityjs'
 
 export async function Invoke_InDesignServerRunScriptDirectlyWithInlineSOAP ({
     $InDesignServerInstance,
